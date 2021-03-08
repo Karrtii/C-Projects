@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\WorkingWithStrings\main.c(24,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\WorkingWithStrings\main.c(24,15): warning C4024: 'my_to_upper': different types for formal and actual parameter 1
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\WorkingWithStrings\main.c(24,28): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\WorkingWithStrings\main.c(24,22): warning C4024: 'my_to_upper': different types for formal and actual parameter 2
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\WorkingWithStrings\main.c(30,18): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\WorkingWithStrings\main.c(31,19): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+  my_string_func.c
+  Generating Code...
+  WorkingWithStrings.vcxproj -> C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 3 - Pointers, Dynamic Memory, DesingTo Code\WorkingWithStrings\Debug\WorkingWithStrings.exe
