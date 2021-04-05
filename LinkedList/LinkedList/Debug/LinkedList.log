@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 5 - Design to Code 2 & 3\LinkedList\LinkedList\Main.c(11,25): warning C4022: 'linkedList_push': pointer mismatch for actual parameter 2
+C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 5 - Design to Code 2 & 3\LinkedList\LinkedList\Main.c(12,25): warning C4022: 'linkedList_push': pointer mismatch for actual parameter 2
+  LinkedList.vcxproj -> C:\Users\karrt\Desktop\All_Folders\Uni\Semester4\Embedded Software (ESW1)\Class 5 - Design to Code 2 & 3\LinkedList\Debug\LinkedList.exe
